@@ -1,0 +1,5 @@
+{
+  "name": "FridgeChef AI",
+  "description": "A minimalist, AI-powered recipe generator that turns your available ingredients into delicious meals using Gemini 3 Flash.",
+  "requestFramePermissions": []
+}
